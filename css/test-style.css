@@ -1,0 +1,17 @@
+.me {
+  width: 960px;
+  margin: 0;
+}
+
+.jyanken {
+  width: 960px;
+}
+
+.hand {
+  display: flex;
+  justify-content: center;
+}
+
+.hand img {
+  width: 100%;
+}
